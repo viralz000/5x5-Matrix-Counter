@@ -1,0 +1,11 @@
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\bin\Debug\5x5matrix counter.exe.config
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\bin\Debug\5x5matrix counter.exe
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\bin\Debug\5x5matrix counter.pdb
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\bin\Debug\5x5matrix counter.xml
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\obj\Debug\5x5matrix counter.vbprojAssemblyReference.cache
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\obj\Debug\_5x5matrix_counter.Form1.resources
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\obj\Debug\_5x5matrix_counter.Resources.resources
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\obj\Debug\5x5matrix counter.vbproj.GenerateResource.cache
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\obj\Debug\5x5matrix counter.exe
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\obj\Debug\5x5matrix counter.xml
+C:\Users\viral\source\repos\5x5matrix counter\5x5matrix counter\obj\Debug\5x5matrix counter.pdb
